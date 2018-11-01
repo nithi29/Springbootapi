@@ -1,0 +1,2 @@
+src/main/java/com/crudapi/controller/UserController.java:83:	Avoid unused local variables such as 'existingUser'.
+src/main/java/com/crudapi/service/UserServiceImpl.java:76:	The method 'validateUser(User)' has a cyclomatic complexity of 22.

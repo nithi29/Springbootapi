@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd>
+    <workingSet>Aggregate:demoex:main:test:</workingSet>
+    <useProjectRuleSet>true</useProjectRuleSet>
+    <ruleSetFile>/home/nithya/Downloads/pmd.xml</ruleSetFile>
+    <includeDerivedFiles>false</includeDerivedFiles>
+    <violationsAsErrors>true</violationsAsErrors>
+    <fullBuildEnabled>true</fullBuildEnabled>
+</pmd>
